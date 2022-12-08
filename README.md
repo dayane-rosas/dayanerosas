@@ -1,13 +1,28 @@
-### 👋🏼Hi i'm Dayane Rosas
-
-- 👩🏼‍🏫I'm currently working at Senac Amazonas as a professor
-- 👩🏼‍💻I'm currently learning QA
-- 👩🏼‍💻I'm looking to collaborate on Quality Assurance
-- 💁🏼‍♀️I'm looking for opportunities in QA
-- 📚Fun fact: always seeking knowledge
-
+<div>
+  
+  <h1 align="center">
+    👋🏼Hi, i'm Dayane Rosas. Obrigada por vir 🥰
+  </h1>
+<p align="left">
+👩🏼‍🏫I'm currently working at Senac Amazonas as a professor
+<p align="left">
+👩🏼‍💻I'm currently learning QA
+<p align="left">
+👩🏼‍💻I'm looking to collaborate on Quality Assurance
+<p align="left">
+💁🏼‍♀️I'm looking for opportunities in QA
+<p align="left">
+📚Fun fact: always seeking knowledge</p>
+   
+  
+  <p align="center">
+    Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
+  </p>
+  
+</div>
+  
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/dayanerosas">
   <img center="180em" src="https://github-readme-stats.vercel.app/api?username=dayane-rosas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img center="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayane-rosas&layout=compact&langs_count=7&theme=radical"/>
 </div>
