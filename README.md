@@ -35,6 +35,5 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> e <a href="https://github.com/duribeiro/duribeiro">Eduardo Ribeiro</a> </p> 
+  <p>Adaptado de: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> e <a href="https://github.com/duribeiro/duribeiro">Eduardo Ribeiro</a> </p> 
 </div>
