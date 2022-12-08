@@ -1,23 +1,19 @@
 <div>
   
-  <h1 align="center">
+  <h1 align="left">
     👋🏼Hi, i'm Dayane Rosas. Obrigada por vir 🥰
   </h1>
 <p align="left">
-👩🏼‍🏫I'm currently working at Senac Amazonas as a professor
+👩‍🏫I'm currently working at Senac Amazonas as a professor
 <p align="left">
-👩🏼‍💻I'm currently learning QA
+👩‍💻I'm currently learning QA
 <p align="left">
-👩🏼‍💻I'm looking to collaborate on Quality Assurance
+👩‍💻I'm looking to collaborate on Quality Assurance
 <p align="left">
-💁🏼‍♀️I'm looking for opportunities in QA
+👩‍💻I'm looking for opportunities in QA
 <p align="left">
-📚Fun fact: always seeking knowledge</p>
-   
-  
-  <p align="center">
-    Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
-  </p>
+🧠Fun fact: always seeking knowledge</p>
+</p>
   
 </div>
   
