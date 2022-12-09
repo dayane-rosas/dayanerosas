@@ -72,9 +72,9 @@
 <a href = "mailto:dayanerosas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/dayane-rosas-de-souza-22b9b2104/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<div align="left">
+<div align="right">
   <a href="https://github.com/dayane-rosas/dayanerosas/blob/main/ezgif.com-gif-maker.gif">
-    <img src="welcome.gif" width="500">
+    <img src="ezgif.com-gif-maker.gif" width="100">
   </a>
 </div>
 <div align="center">
@@ -88,5 +88,5 @@
 <div> 
 </div>
 <div align="center">
-  <p>Adaptado de: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> e <a href="https://github.com/duribeiro/duribeiro">Eduardo Ribeiro</a> </p> 
+  <p>Adaptado de: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> e <a href="https://github.com/andreinaoliveira">Andreina Oliveira</a> </p> 
 </div>
