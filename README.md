@@ -15,10 +15,10 @@
 🧠Fun fact: a vegetarian who is always seeking knowledge</p>
 </p>
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/dayane-rosas">
-  <img left="180em" src="https://github-readme-stats.vercel.app/api?username=dayane-rosas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img left="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayane-rosas&layout=compact&langs_count=7&theme=radical"/>
+  <img center="180em" src="https://github-readme-stats.vercel.app/api?username=dayane-rosas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img center="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayane-rosas&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
