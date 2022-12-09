@@ -11,7 +11,7 @@
   </a>
 </div>
 
-## 🍃 Sobre mim
+## 🍃 Sobre 
 <div align='left'>
   <b> 🕊 "Seja a mudança que você quer ver no mundo" - Mahatma Gandhi</b>
 </div><br>
@@ -64,7 +64,6 @@
   <img align="center" alt="Day-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Day-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Day-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Day-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Day-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
