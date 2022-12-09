@@ -62,12 +62,8 @@
   <img align="center" alt="Day-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Day-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Day-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Day-dany" height="150" style="border-radius:50px;" src="https://github.com/dayane-rosas/dayanerosas/blob/main/dany.mp4">
 </div>
-
   
-</div>
-
  ##
 
 <div> 
@@ -76,8 +72,11 @@
 <a href = "mailto:dayanerosas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/dayane-rosas-de-souza-22b9b2104/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+<div align="left">
+  <a href="https://github.com/dayane-rosas/dayanerosas/blob/main/ezgif.com-gif-maker.gif">
+    <img src="welcome.gif" width="500">
+  </a>
 </div>
-
 <div align="center">
 
   ![Snake animation](https://github.com/dayane-rosas/dayanerosas/blob/output/github-contribution-grid-snake.svg)
