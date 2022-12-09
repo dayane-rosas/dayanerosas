@@ -5,6 +5,10 @@
   👋🏼Saudações, eu sou Dayane Rosas🥰
   </h1>
   </div>
+  <div align="center">
+  <a href="https://github.com/dayane-rosas/dayanerosas/blob/main/hello-unscreen.gif">
+    <img src="hello-unscreen.gif" width="300">
+  </div>
 <div align="center">
   <a href="https://github.com/dayane-rosas">
     <img src="welcome.gif" width="500">
