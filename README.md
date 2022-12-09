@@ -4,7 +4,7 @@
   👋🏼Saudações, eu sou Dayane Rosas. Seja bem-vindo(a)!🥰
   </h1>
   <p align="left">
-👩‍🎓Possuo MBI em Gestão de Projetos, especialização em Gestão da Qualidade - Uniasselvi
+👩‍🎓Possuo MBI em Gestão de Projetos, e especialização em Gestão da Qualidade - Uniasselvi
 <p align="left">
   <p align="left">
 👩‍🎓Sou Bacharela em Sistemas de Informação - UFAM/ICET
@@ -27,6 +27,12 @@
 🧠Pesquisas: Realizo pesquisas na área de Ciência da Computação, com ênfase em Sistemas de Informação, atua principalmente nas áreas de Engenharia de Software, Gestão da Qualidade, Gestão de Projetos, Interação Humano Computador, desenvolvimento de aplicativos mobile com tecnologia de Realidade Aumentada, Informática na Educação, Robótica Educacional, cultura Maker e metodologias ativas no processo de ensino e aprendizagem.</p>
 </p>
 
+</div>
+
+ ##
+
+<div> 
+  
 <div align="center">
   <a href="https://github.com/dayane-rosas">
   <img reght="180em" src="https://github-readme-stats.vercel.app/api?username=dayane-rosas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -56,6 +62,11 @@
 
   ![Snake animation](https://github.com/dayane-rosas/dayanerosas/blob/output/github-contribution-grid-snake.svg)
   
+  </div>
+
+ ##
+
+<div> 
 </div>
 <div align="center">
   <p>Adaptado de: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> e <a href="https://github.com/duribeiro/duribeiro">Eduardo Ribeiro</a> </p> 
