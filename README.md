@@ -1,5 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/dayane-rosas)
 <div>
-  
   <h1 align="left">
   👋🏼Saudações, eu sou Dayane Rosas. Seja bem-vindo(a)!🥰
   </h1>
