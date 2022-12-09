@@ -1,8 +1,21 @@
 ![Profile views](https://gpvc.arturio.dev/dayane-rosas)
 <div>
   <h1 align="left">
-  👋🏼Saudações, eu sou Dayane Rosas. Seja bem-vindo(a)!🥰
+  👋🏼Saudações, eu sou Dayane Rosas🥰
   </h1>
+<div align="center">
+  <a href="https://github.com/dayane-rosas">
+    <img src="welcome.gif" width="500">
+  </a>
+</div>
+<br>
+</div>
+
+## 🍃 Sobre mim
+<div align='left'>
+  <b> 🕊 "Seja a mudança que você quer ver no mundo" - Mahatma Gandhi</b>
+</div><br>
+
   <p align="left">
 👩‍🎓Possuo MBI em Gestão de Projetos, e especialização em Gestão da Qualidade - Uniasselvi
 <p align="left">
@@ -25,14 +38,18 @@
 </p>
 <p align="left">
 🧠Pesquisas: Realizo pesquisas na área de Ciência da Computação, com ênfase em Sistemas de Informação, atua principalmente nas áreas de Engenharia de Software, Gestão da Qualidade, Gestão de Projetos, Interação Humano Computador, desenvolvimento de aplicativos mobile com tecnologia de Realidade Aumentada, Informática na Educação, Robótica Educacional, cultura Maker e metodologias ativas no processo de ensino e aprendizagem.</p>
-</p>
+
+- Confira meu Currículo Lattes. 
+  - <a href='https://lattes.cnpq.br/1373785563610025'>Currículo Lattes de Dayane Rosas</a>
 
 </div>
 
- ##
+ ## ⭐️ Habilidades em construção
+<div align="center">
 
 <div> 
-  
+  </div>
+
 <div align="center">
   <a href="https://github.com/dayane-rosas">
   <img reght="180em" src="https://github-readme-stats.vercel.app/api?username=dayane-rosas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
