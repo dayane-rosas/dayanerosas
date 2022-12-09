@@ -1,9 +1,4 @@
 ![Profile views](https://gpvc.arturio.dev/dayane-rosas)
-<div align="right">
-  <a href="https://github.com/dayane-rosas/dayanerosas/blob/main/ezgif.com-gif-maker.gif">
-    <img src="ezgif.com-gif-maker.gif" width="150">
-  </a>
-</div>
   
 <div>
   <h1 align="left">
@@ -47,6 +42,10 @@
 - Confira meu Currículo Lattes. 
   - <a href='https://lattes.cnpq.br/1373785563610025'>Currículo Lattes de Dayane Rosas</a>
 
+<div align="right">
+  <a href="https://github.com/dayane-rosas/dayanerosas/blob/main/ezgif.com-gif-maker.gif">
+    <img src="ezgif.com-gif-maker.gif" width="150">
+  </a>
 </div>
 
  ## ⭐️ Habilidades em construção
