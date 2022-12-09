@@ -1,14 +1,19 @@
 ![Profile views](https://gpvc.arturio.dev/dayane-rosas)
+<div align="right">
+  <a href="https://github.com/dayane-rosas/dayanerosas/blob/main/ezgif.com-gif-maker.gif">
+    <img src="ezgif.com-gif-maker.gif" width="150">
+  </a>
+</div>
+  
 <div>
   <h1 align="left">
   👋🏼Saudações, eu sou Dayane Rosas🥰
   </h1>
+  </div>
 <div align="center">
   <a href="https://github.com/dayane-rosas">
     <img src="welcome.gif" width="500">
   </a>
-</div>
-<br>
 </div>
 
 ## 🍃 Sobre mim
@@ -72,11 +77,6 @@
 <a href = "mailto:dayanerosas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/dayane-rosas-de-souza-22b9b2104/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<div align="right">
-  <a href="https://github.com/dayane-rosas/dayanerosas/blob/main/ezgif.com-gif-maker.gif">
-    <img src="ezgif.com-gif-maker.gif" width="150">
-  </a>
-</div>
 <div align="center">
 
   ![Snake animation](https://github.com/dayane-rosas/dayanerosas/blob/output/github-contribution-grid-snake.svg)
