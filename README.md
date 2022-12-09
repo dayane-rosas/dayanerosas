@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="left">
-  👋🏼Greetings, i'm Dayane Rosas. Seja bem-vindo(a)! 🥰
+  👋🏼Greetings, i'm Dayane Rosas. Welcome! 🥰
   </h1>
 <p align="left">
 👩‍🏫I'm currently working at Senac Amazonas as a professora
@@ -16,7 +16,7 @@
 </p>
   
 <div align="center">
-  <a href="https://github.com/dayanerosas">
+  <a href="https://github.com/dayane-rosas">
   <img center="180em" src="https://github-readme-stats.vercel.app/api?username=dayane-rosas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img center="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayane-rosas&layout=compact&langs_count=7&theme=radical"/>
 </div>
