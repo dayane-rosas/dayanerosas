@@ -1,18 +1,30 @@
 <div>
   
   <h1 align="left">
-  👋🏼Greetings, i'm Dayane Rosas. Welcome!🥰
+  👋🏼Saudações, eu sou Dayane Rosas. Seja bem-vindo(a)!🥰
   </h1>
+  <p align="left">
+👩‍🎓Possuo MBI em Gestão de Projetos, especialização em Gestão da Qualidade - Uniasselvi
 <p align="left">
-👩‍🏫I'm currently working at Senac Amazonas as a professora
+  <p align="left">
+👩‍🎓Sou Bacharela em Sistemas de Informação - UFAM/ICET
 <p align="left">
-👩‍💻I'm currently learning QA
 <p align="left">
-🙅‍♀️I'm looking to collaborate on Quality Assurance
+👩‍🏫Atualmente sou professora na Faculdade de Tecnologia Senac Amazonas - FATESE
 <p align="left">
-💁‍♀️I'm looking for opportunities in QA
+  <p align="left">
+👩‍Atuei como professora no curso de Licenciatura em Computação - UEA/CESIT
+  <p align="left">
+👩‍💻Atualmente estou aprendendo sobre QA
+  <p align="left">
+🙅‍♀️Estou buscando colaborar com Quality Assurance
+  <p align="left">
+💁‍♀️Busco oportunidade em QA
+  <p align="left">
+🌱Curiosidade: Sou uma vegetariana, faixa azul de Jiu-Jitsu que está sempre buscando conhecimento</p>
+</p>
 <p align="left">
-🧠Fun fact: a vegetarian who is always seeking knowledge</p>
+🧠Pesquisas: Realizo pesquisas na área de Ciência da Computação, com ênfase em Sistemas de Informação, atua principalmente nas áreas de Engenharia de Software, Gestão da Qualidade, Gestão de Projetos, Interação Humano Computador, desenvolvimento de aplicativos mobile com tecnologia de Realidade Aumentada, Informática na Educação, Robótica Educacional, cultura Maker e metodologias ativas no processo de ensino e aprendizagem.</p>
 </p>
 
 <div align="center">
