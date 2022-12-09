@@ -19,24 +19,24 @@
 </div><br>
 
   <p align="left">
-👩‍🎓Possuo MBI em Gestão de Projetos, e especialização em Gestão da Qualidade - Uniasselvi
+👩‍🎓Possuo MBI em Gestão de Projetos, e especialização em Gestão da Qualidade - Uniasselvi;
 <p align="left">
   <p align="left">
-👩‍🎓Sou Bacharela em Sistemas de Informação - UFAM/ICET
+👩‍🎓Sou Bacharela em Sistemas de Informação - UFAM/ICET;
 <p align="left">
 <p align="left">
-👩‍🏫Atualmente sou professora na Faculdade de Tecnologia Senac Amazonas - FATESE
+👩‍🏫Atualmente sou professora na Faculdade de Tecnologia Senac Amazonas - FATESE;
 <p align="left">
   <p align="left">
-👩‍Atuei como professora no curso de Licenciatura em Computação - UEA/CESIT
+👩‍Atuei como professora no curso de Licenciatura em Computação - UEA/CESIT;
   <p align="left">
-👩‍💻Atualmente estou aprendendo sobre QA
+👩‍💻Atualmente estou aprendendo sobre QA;
   <p align="left">
-🙅‍♀️Estou buscando colaborar com Quality Assurance
+🙅‍♀️Estou buscando colaborar com Quality Assurance;
   <p align="left">
-💁‍♀️Busco oportunidade em QA
+💁‍♀️Busco oportunidade em QA;
   <p align="left">
-🌱Curiosidade: Sou vegetariana, faixa azul de Jiu-Jitsu e estou sempre buscando conhecimento</p>
+🌱Curiosidade: Sou vegetariana, faixa azul de Jiu-Jitsu e estou sempre buscando conhecimento.</p>
 </p>
 <p align="left">
 🧠Pesquisas: Realizo pesquisas na área de Ciência da Computação, com ênfase em Sistemas de Informação, atua principalmente nas áreas de Engenharia de Software, Gestão da Qualidade, Gestão de Projetos, Interação Humano Computador, desenvolvimento de aplicativos mobile com tecnologia de Realidade Aumentada, Informática na Educação, Robótica Educacional, cultura Maker e metodologias ativas no processo de ensino e aprendizagem.</p>
