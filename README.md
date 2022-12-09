@@ -6,8 +6,8 @@
   </h1>
   </div>
   <div align="center">
-  <a href="https://github.com/dayane-rosas/dayanerosas/blob/main/hello-unscreen.gif">
-    <img src="hello-unscreen.gif" width="300">
+  <a href="https://github.com/dayane-rosas/dayanerosas/blob/main/hello.gif">
+    <img src="hello.gif" width="200">
   </div>
 <div align="center">
   <a href="https://github.com/dayane-rosas">
