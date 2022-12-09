@@ -2,12 +2,10 @@
   
 <div>
   <h1 align="left">
-  👋🏼Saudações, eu sou Dayane Rosas🥰
+  👋🏼Hello world, eu sou Dayane Rosas🥰
   </h1>
   </div>
-  <div align="center">
-  <a href="https://github.com/dayane-rosas/dayanerosas/blob/main/hello.gif">
-    <img src="hello.gif" width="200">
+  
   </div>
 <div align="center">
   <a href="https://github.com/dayane-rosas">
