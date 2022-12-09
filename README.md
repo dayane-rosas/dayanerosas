@@ -74,7 +74,7 @@
 
 <div align="right">
   <a href="https://github.com/dayane-rosas/dayanerosas/blob/main/ezgif.com-gif-maker.gif">
-    <img src="ezgif.com-gif-maker.gif" width="100">
+    <img src="ezgif.com-gif-maker.gif" width="150">
   </a>
 </div>
 <div align="center">
