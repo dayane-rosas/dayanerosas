@@ -4,7 +4,7 @@
   <h1 align="left">
   👋🏼Olá mundo, eu sou Dayane Rosas🥰
   </h1>
-   <img align="center" alt="Olá_Dayane.mp4" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Olá_Dayane.mp4" height="30" width="40" src="https://github.com/dayane-rosas/dayanerosas/blob/main/Ol%C3%A1_Dayane.mp4">
   </div>
   
   </div>
