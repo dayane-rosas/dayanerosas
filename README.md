@@ -15,7 +15,7 @@
 
 ## 🍃 Sobre 
 <div align='left'>
-  <b> 🕊 "Seja a mudança que você quer ver no mundo" - Mahatma Gandhi</b>
+  <b> ✨ "Seja a mudança que você quer ver no mundo" - Mahatma Gandhi</b>
 </div><br>
 
   <p align="left">
