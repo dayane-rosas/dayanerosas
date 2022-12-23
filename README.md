@@ -30,13 +30,13 @@
   <p align="left">
 👩‍Atuei como professora no curso de Licenciatura em Computação - UEA/CESIT;
   <p align="left">
-👩‍💻Atualmente estou aprendendo sobre QA;
+👩‍💻Atualmente estou aprendendo sobre front-end e QA;
   <p align="left">
-🙅‍♀️Estou buscando colaborar com Quality Assurance;
+🙅‍♀️Estou buscando colaborar com desenvolvimento front-end ou Quality Assurance;
   <p align="left">
-💁‍♀️Busco oportunidade em QA;
+💁‍♀️Busco oportunidade em desenvolvimento front-end ou QA;
   <p align="left">
-🌱Curiosidade: Sou vegetariana, faixa azul de Jiu-Jitsu e estou sempre buscando conhecimento.</p>
+🌱Curiosidade: Sou vegetariana, faixa azul de Jiu-Jitsu, adoro animes e ouvir uma boa música, e estou sempre buscando conhecimento.</p>
 </p>
 <p align="left">
 🧠Pesquisas: Realizo pesquisas na área de Ciência da Computação, com ênfase em Sistemas de Informação, atua principalmente nas áreas de Engenharia de Software, Gestão da Qualidade, Gestão de Projetos, Interação Humano Computador, desenvolvimento de aplicativos mobile com tecnologia de Realidade Aumentada, Informática na Educação, Robótica Educacional, cultura Maker e metodologias ativas no processo de ensino e aprendizagem.</p>
