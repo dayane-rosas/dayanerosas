@@ -4,8 +4,8 @@
   <h1 align="left">
   👋🏼Olá mundo, eu sou Dayane Rosas🥰
   </h1>
-  <a href="https://github.com/dayane-rosas/dayanerosas/blob/main/Ol%C3%A1_Dayane.mp4">
-    <img src="Dayane.mp4" width="150">
+  <a href="https://github.com/dayane-rosas/dayanerosas/blob/main/ola-ezgif.com-gif-maker.gif">
+    <img src="ola-ezgif.com-gif-maker.gif" width="150">
   </div>
   
   </div>
